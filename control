@@ -1,6 +1,6 @@
 Package: com.fiore.shootingstar
 Name: ShootingStar
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Add "Eid Mubarak" message effect as a selectable option in the messages effect menu.
 Maintainer: fiore
